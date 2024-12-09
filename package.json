@@ -28,7 +28,7 @@
     "helmet": "^8.0.0",
     "isomorphic-fetch": "^3.0.0",
     "jsonwebtoken": "^9.0.2",
-    "nanoid": "^5.0.8",
+    "nanoid": "^5.0.9",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7",
     "ssh2": "^1.16.0",
